@@ -1,0 +1,17 @@
+.container1 {
+    margin: 10px;
+    padding: 7%;
+    background-color: rgba(26, 26, 26, 0.70);
+    color: white;
+}
+body {
+    background-image: url("https://wanganmaxi-official.com/wanganmaxi6rr/en/img/main_low.png");
+}
+
+code.notice {
+    color: rgba(250,230,37,255);
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: rgba(221,0,199,255) !important;
+}
